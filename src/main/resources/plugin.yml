@@ -1,9 +1,0 @@
-name: TeleportBow
-version: '${project.version}'
-main: me.clayplayer.teleportbow.TeleportBow
-api-version: 1.19
-commands:
-  givetpbow:
-    description: Give TPBow
-  tpbowreload:
-    description: Reload plugin congig
